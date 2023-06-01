@@ -1,0 +1,3 @@
+from hellothere import *
+
+hellothere()
